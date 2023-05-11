@@ -7,7 +7,7 @@ sdk: streamlit
 sdk_version: 1.2.0
 app_file: app.py
 pinned: false
-duplicated_from: ml6team/Knowledge-graphs
+
 ---
 
 # Configuration
